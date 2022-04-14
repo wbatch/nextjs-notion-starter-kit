@@ -386,3 +386,7 @@
 .notion-block-260baa77f1e1428b97fb14ac99c7c385 {
   display: none;
 }
+
+.notion ::selection {
+  background: var(--notion-purple_background);
+}
